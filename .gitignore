@@ -1,0 +1,5 @@
+/gpt2/
+/__pycache__/
+/loss-plot.pdf
+/model.pth
+/model_and_optimizer.pth
