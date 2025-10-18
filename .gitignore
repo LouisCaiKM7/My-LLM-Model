@@ -6,3 +6,5 @@
 /sms_spam_collection/
 /sms_spam_collection.zip
 *.csv
+/review_classifier.pth
+/accuracy_plot.pdf
