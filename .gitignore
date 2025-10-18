@@ -3,3 +3,6 @@
 /loss-plot.pdf
 /model.pth
 /model_and_optimizer.pth
+/sms_spam_collection/
+/sms_spam_collection.zip
+*.csv
