@@ -8,3 +8,5 @@
 *.csv
 /review_classifier.pth
 /accuracy_plot.pdf
+*.json
+*.pth
